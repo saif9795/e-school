@@ -1,0 +1,106 @@
+{
+    font-family: 'Poppins', sans-serif;
+}
+.start{
+    background-color: #F0FFF0;
+}
+.container-fluid{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.navbar-brand img{
+    width: 198.07px;
+    height: 59px;
+}
+.nav-link{
+    font-family: poppin;
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color:#000000;
+}
+#text{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18.75px;
+    color: white;
+}
+.button{
+    background-color: #21B573;
+    border: none;
+    border-radius: 33px;
+    padding: 6px 14px 6px 14px;
+}
+.illustration img{
+    width: 480px;
+    height: 346px;
+}
+.writing small{
+    font-family: poppins;
+    font-weight: 400;
+    color: #FD511A;
+}
+.writing p{
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+    color: black;
+}
+.writing span{
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+    color: #21B573;
+}
+.writing h6{
+    font-family: poppins;
+    font-weight: 400;
+    size: 16px;
+    line-height: 36px;
+    color: grey;
+}
+.writing button{
+    width: 153px;
+    height: 50px;
+    padding: 12px 36px 12px 36px;
+    background-color: #21B573;
+    border: none;
+    border-radius: 33px;
+    color: #fff;
+}
+.cards{
+    margin-top: 40px;
+}
+.cards img{
+    width: 66px;
+    height: 85px;
+}
+.card-body h3{
+    font-family: poppins;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #413960;
+}
+.card-body p{
+    text-align: center;
+    font-family: poppins;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+}
+.card{
+    width: 270px;
+    height: 270px;
+    border: 5px;
+    box-shadow: 10px grey;
+}
+.card-img-top{
+    padding: 20px 15px;
+}
